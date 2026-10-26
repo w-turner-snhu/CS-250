@@ -1,0 +1,37 @@
+# Module Seven Final Project Submission – Sprint Review & Retrospective 
+
+## Applying Roles 
+
+During the SNHU Travel project, I learned how the different Scrum roles contribute to software development. The Product Owner works with stakeholders, gathers requirements, and prioritizes the Product Backlog. The Scrum Master helps the team follow Scrum practices and address problems. Developers build the software, while testers check that it meets the requirements. Each role has different responsibilities, but communication between team members is important for completing the project successfully (Schwaber & Sutherland, 2020). 
+
+Throughout my coursework, I looked at the project from the perspective of the Scrum Master, Product Owner, Tester, and Developer. Each role helped me understand a different part of the development process. The Product Owner needs to understand what the customer wants, while the developer needs clear requirements before beginning work. The tester also needs to understand how a feature should work to determine whether it meets the requirements. Overall, I learned that each role contributes to the project and that the team needs to work together to reach its goals. 
+
+## Completing User Stories 
+
+User stories help explain what a user needs from a feature and why it is important. They also break larger requirements into smaller pieces of work. Acceptance criteria provide more specific details about what a feature must do before it can be considered complete (Atlassian, 2026). These details help the team understand what needs to be developed and how to determine whether the work meets the customer's expectations. 
+
+One example from SNHU Travel was the Top Five Destination List, which included destination names, descriptions, photos, and links to vacation packages. The system also needed to consider the user's profile, previous travel, price limit, and preferred vacation type. As the Tester, I considered questions about what should happen if a user had no previous travel history, provided incomplete information, or had no matching destinations. I would ask the Product Owner for clarification so I could create test cases with expected results. This showed me why clear user stories and acceptance criteria are important throughout development and testing. 
+
+## Handling Interruptions 
+
+Software development does not always go exactly as planned. A customer may request a change, a team member may discover a problem, or new information may affect how a feature should work. Agile allows the team to respond to these situations instead of following the original plan without considering new information (Schwaber & Sutherland, 2020). 
+
+For SNHU Travel, a change to the destination recommendation requirements could affect both development and testing. For example, if the Product Owner clarified how the system should respond when a user had no previous travel history, the team would need to review the user story and acceptance criteria. The developer might need to adjust the feature, and the tester might need to update the test cases. The team could discuss the change during the Daily Scrum and update the Product Backlog as needed. I think this flexibility is useful because the team can respond to customer needs while keeping track of its work. 
+
+## Communication 
+
+Communication is important throughout the software development life cycle because team members depend on one another to understand requirements and complete their work. During my coursework, I learned that asking questions and sharing information can help prevent misunderstandings. For example, in my Module Four journal, I discussed asking the Product Owner about missing travel history, incomplete information, and destinations that did not match a user's preferences. In my Module Five journal, I discussed asking for clarification about changing requirements and expected test results. 
+
+Scrum events also give the team opportunities to communicate. The Daily Scrum allows team members to discuss progress, plans, and problems. The Sprint Review gives stakeholders an opportunity to provide feedback on completed work, while the Sprint Retrospective allows the team to discuss what went well and what could be improved (Schwaber & Sutherland, 2020). I think these events help the team stay organized and address problems before they cause further delays. Communication throughout the project helps team members understand their responsibilities and work toward the same goal. 
+
+## Organizational Tools 
+
+Project management tools help the team organize its work and track progress. A Scrum board is an information radiator because team members can see which tasks are completed, which are in progress, and which still need attention. Jira can help the team create tasks, assign responsibilities, prioritize work, and track progress. Confluence can also provide a place to organize project information and documentation (Atlassian, 2023). 
+
+These tools support communication, but they do not replace it. For example, a tester might update a Jira task to show that testing is blocked by an unclear requirement. The team would still need to contact the Product Owner to clarify the expected result. Scrum events also help organize the work by allowing the team to plan a Sprint, review progress, and discuss improvements. I think using these tools and events together helps the team keep track of its responsibilities and make sure important information is available when needed. 
+
+## Evaluating the Agile Process 
+
+In my opinion, Scrum was a good approach for SNHU Travel because it allowed the team to work on individual features, review progress, and make changes when needed. One advantage of Scrum is that the team can receive feedback and improve the software throughout development. However, Scrum also requires regular communication and participation from team members and stakeholders. If requirements are unclear or questions go unanswered, development and testing can be delayed. 
+
+Waterfall may be a better choice for projects where the requirements are clear and unlikely to change, while Agile is useful when flexibility is needed. Overall, I think Scrum was a good fit for SNHU Travel because the team needed to understand customer requirements and consider different situations when developing and testing features. This project helped me understand how the software development life cycle, teamwork, and communication contribute to successful software development. 
